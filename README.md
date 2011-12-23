@@ -5,8 +5,8 @@ enables human-readable logging of alignments and metrics.
 
 This class is intended to reproduce the main functionality of the   
 <a href="http://www.icsi.berkeley.edu/Speech/docs/sctk-1.2/sclite.htm">NIST sclite tool</a>.  The Sphinx 4 source for the class   
-<a href="http://cmusphinx.sourceforge.net/sphinx4/javadoc/edu/cmu/sphinx/util/NISTAlign.html">edu.cmu.sphinx.util.NISTAlign<a/> was referenced when    
-writing the WordSequenceAligner code.
+<a href="http://cmusphinx.sourceforge.net/sphinx4/javadoc/edu/cmu/sphinx/util/NISTAlign.html">edu.cmu.sphinx.util.NISTAlign<a/> was referenced when writing the   
+WordSequenceAligner code.
   
 Feedback and bugfixes are welcomed.  
 
